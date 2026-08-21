@@ -1,11 +1,5 @@
 # 🔐 Task 5 – Research Report: Social Engineering Attacks
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Internship-Oasis%20Infobyte-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Track-Cyber%20Security-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Task-05-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
-</p>
 
 ---
 
