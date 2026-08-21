@@ -196,7 +196,7 @@ Regular awareness training, strong authentication, and verification procedures a
 Cyber Security Intern  
 **Oasis Infobyte**
 
-GitHub: **https://github.com/anbuchelvan1707/OASIS**
+GitHub: **https://github.com/anbuchelvan1707/OIBSIP.git**
 
 ---
 
