@@ -9,8 +9,8 @@ back not to unknown "zero-day" flaws, but to known vulnerabilities for which a f
 already existed and simply wasn't applied in time.
 
 ## Why This Task Matters
-[Write 2-3 sentences in your own words: why does a fix existing not automatically mean
-a system is safe? Think about the gap between "patch released" and "patch installed."]
+A fix being released does not mean the system is immediately protected because the patch still needs to be installed and applied correctly. Until the patch is installed, the vulnerability may still exist, leaving the system exposed to attacks.
+
 
 ## Objective
 Write a report explaining what patch management is, why unpatched systems represent one
